@@ -34,10 +34,15 @@ $ sail npm run dev
 Now the app will run on http://localhost:8801/
 
 Search result
-![Alt text](customer.gif)
+
 
 Admin Book managment
 <video src="admin1.mp4" controls title="Title"></video>
+
+
+https://github.com/singhpappu/bookstore/assets/25156691/7cf8077a-5a00-4ddd-908b-3f14422bb369
+
+
 
 Queue and Horizon
 <video src="queue-and-horizon.mp4" controls title="Title"></video>
