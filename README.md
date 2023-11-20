@@ -34,6 +34,7 @@ $ sail npm run dev
 Now the app will run on http://localhost:8801/
 
 Search result
+
 https://github.com/singhpappu/bookstore/assets/25156691/17d032eb-fbad-4f74-873d-61cf44eea261
 
 
