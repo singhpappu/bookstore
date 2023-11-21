@@ -43,6 +43,7 @@ https://github.com/singhpappu/bookstore/assets/25156691/17d032eb-fbad-4f74-873d-
 Admin Book managment
 
 Default admin credentials
+
 user: admin@bookstore.com
 password: Secret@2023
 
