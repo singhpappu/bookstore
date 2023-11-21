@@ -44,7 +44,7 @@ Admin Book managment
 
 Default admin credentials
 
-user: admin@bookstore.com
+user: admin@bookstore.com <br/>
 password: Secret@2023
 
 https://github.com/singhpappu/bookstore/assets/25156691/7cf8077a-5a00-4ddd-908b-3f14422bb369
