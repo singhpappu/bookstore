@@ -33,6 +33,7 @@ $ sail npm run dev
 ```
 Now the app will run on http://localhost:8801/
 
+
 Search result
 
 https://github.com/singhpappu/bookstore/assets/25156691/17d032eb-fbad-4f74-873d-61cf44eea261
@@ -40,6 +41,9 @@ https://github.com/singhpappu/bookstore/assets/25156691/17d032eb-fbad-4f74-873d-
 
 
 Admin Book managment
+Default admin credentials
+user: admin@bookstore.com
+password: Secret@2023
 
 https://github.com/singhpappu/bookstore/assets/25156691/7cf8077a-5a00-4ddd-908b-3f14422bb369
 
