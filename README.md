@@ -1,4 +1,4 @@
-# Book Store [Packt+ Assessment]
+# Book Store [Assessment]
 Laravel VueJs Assessment
 
 #### Development platform used
